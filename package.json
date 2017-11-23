@@ -1,0 +1,26 @@
+{
+  "name": "get-all-paths",
+  "version": "1.0.0",
+  "description": "Get an array of all paths in a directory and its subdirectories",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nathanhoad/get-all-paths.git"
+  },
+  "keywords": [
+    "node",
+    "path"
+  ],
+  "author": "Nathan Hoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanhoad/get-all-paths/issues"
+  },
+  "homepage": "https://github.com/nathanhoad/get-all-paths#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
