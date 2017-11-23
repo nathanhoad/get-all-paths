@@ -1,6 +1,6 @@
 {
   "name": "get-all-paths",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get an array of all paths in a directory and its subdirectories",
   "main": "index.js",
   "scripts": {
